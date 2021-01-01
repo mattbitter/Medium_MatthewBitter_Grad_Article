@@ -1,2 +1,4 @@
-This Repo support the article by Matthew Bitter at the link below:
+This Repo support the article by Matthew Bitter
+
+Online Master's in Data Science - Worth taking the plunge?
 
